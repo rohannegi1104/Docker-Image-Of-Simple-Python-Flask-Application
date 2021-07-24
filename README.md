@@ -1,7 +1,7 @@
 # Docker Container with simple Python-Flask Application
 
-The goal of this example is to show you how to get a Node.js application into a Docker container. The guide is intended for development, and not for a production deployment. The guide assumes you have a basic understanding of how a Node.js application is structured.
-We will create a simple web application in Node.js, then we will build a Docker image for that application, and lastly we will instantiate a container from that image.
+The goal of this example is to show you how to get a Python-Flask application into a Docker container. The guide is intended for development, and not for a production deployment. The guide assumes you have a basic understanding of how a Python application is structured.
+We will create a simple web application in Python, then we will build a Docker image for that application, and lastly we will instantiate a container from that image.
 
 ## Prerequisites
 - SSH root access to VPS/Dedicated Server
