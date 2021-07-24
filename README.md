@@ -87,3 +87,9 @@ I have uploaded this Container Image to docker hub and you can download the imag
 ~~~sh
 docker pull sebinxavi/python-web-app:1
 ~~~
+
+## Author
+Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
+
+<a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebinxavi"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
