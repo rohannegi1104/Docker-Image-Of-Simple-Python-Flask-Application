@@ -50,7 +50,7 @@ git clone https://github.com/sebinxavi/Docker-Image-Of-Simple-Python-Flask-Appli
 ~~~ 
 
 <p align="left">
-  <img width="900" height="550" src="https://i.ibb.co/7CjLtGw/1.png">
+  <img width="600" height="250" src="https://i.ibb.co/7CjLtGw/1.png">
 </p>
 
 Go to the directory that has the Dockerfile and run the following command to build the Docker image. The -t flag lets you tag your image so it's easier to find later using the docker images command:
