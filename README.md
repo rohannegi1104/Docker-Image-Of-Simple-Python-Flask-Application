@@ -100,7 +100,7 @@ You can also push this image to Docker Hub repositories
 I have uploaded this Container Image to docker hub and you can download the image by
 
 ~~~sh
-docker push sebinxavi/python-web-app:1
+docker pull sebinxavi/python-web-app:1
 ~~~
 
 <p align="left">
