@@ -91,6 +91,10 @@ curl -I http://SERVER-IP:80
 curl -L http://SERVER-IP:80
 ~~~
 
+<p align="left">
+  <img width="600" height="250" src="https://i.ibb.co/7JSjkpG/4.png">
+</p>
+
 You can also push this image to Docker Hub repositories
 
 [Docker Hub repositories](https://docs.docker.com/docker-hub/repos/) allow you share container images with your team, customers, or the Docker community at large.
