@@ -1,14 +1,14 @@
 # Docker Image with simple Python-Flask Application
 
-The goal of this example is to show you how to get a Python-Flask application into a Docker container. The guide is intended for development, and not for a production deployment. The guide assumes you have a basic understanding of how a Python application is structured.
-We will create a simple web application in Python, then we will build a Docker image for that application, and lastly we will instantiate a container from that image.
+The goal of this example is to show you how to get a Python-Flask application into a Docker container. The guide is intended for development, and not for production deployment. The guide assumes you have a basic understanding of how a Python application is structured.
+We will create a simple web application in Python, then we will build a Docker image for that application, and lastly, we will instantiate a container from that image.
 
 ## Prerequisites
 - SSH root access to VPS/Dedicated Server
 
 ## Install Docker Engine
 
-Docker Engine is available on a variety of Linux platforms, macOS and Windows 10 through Docker Desktop, and as a static binary installation. Please follow the Docker [officical document](https://docs.docker.com/engine/install/)  for Docker Installation.
+Docker Engine is available on a variety of Linux platforms, macOS and Windows 10 through Docker Desktop, and as a static binary installation. Please follow the Docker [official document](https://docs.docker.com/engine/install/)  for Docker Installation.
 
 ## Building the Docker image
 
