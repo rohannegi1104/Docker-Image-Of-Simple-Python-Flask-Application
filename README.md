@@ -91,9 +91,7 @@ curl -I http://SERVER-IP:80
 curl -L http://SERVER-IP:80
 ~~~
 
-<p align="left">
-  <img width="600" height="250" src="https://i.ibb.co/7JSjkpG/4.png">
-</p>
+![alt text](https://i.ibb.co/7JSjkpG/4.png)
 
 You can also push this image to Docker Hub repositories
 
