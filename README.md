@@ -56,18 +56,28 @@ git clone https://github.com/sebinxavi/Docker-Image-Of-Simple-Python-Flask-Appli
 Go to the directory that has the Dockerfile and run the following command to build the Docker image. The -t flag lets you tag your image so it's easier to find later using the docker images command:
 ~~~sh
 cd Docker-Image-Of-Simple-Python-Flask-Application/
-docker build -t <your username>/python-web-app> . 
+docker build -t <your username>/python-web-app:1> . 
 ~~~
+
+<p align="left">
+  <img width="600" height="250" src="https://i.ibb.co/WDvj4p8/2.png">
+</p>
+
 
 Your image will now be listed by Docker by the command:
 ~~~sh
-docker images ls
+docker image ls
 ~~~
 
 Now run the container from the Image created:
 ~~~sh
 docker container run --name pythonapp -p 80:5000 -d sebinxavi/python-web-app:1
 ~~~
+
+<p align="left">
+  <img width="600" height="250" src="https://i.ibb.co/JksYHtZ/3.png">
+</p>
+
 
 To test your app, get the port of your app that Docker mapped:
 ~~~sh
