@@ -74,9 +74,7 @@ Now run the container from the Image created:
 docker container run --name pythonapp -p 80:5000 -d sebinxavi/python-web-app:1
 ~~~
 
-<p align="left">
-  <img width="600" height="250" src="https://i.ibb.co/JksYHtZ/3.png">
-</p>
+![alt text](https://i.ibb.co/JksYHtZ/3.png)
 
 
 To test your app, get the port of your app that Docker mapped:
